@@ -1,0 +1,4 @@
+GoTo G
+ForEachSheet
+	SetAxisTitle X, "log [Antibody] M"
+Next
