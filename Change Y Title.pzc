@@ -1,4 +1,4 @@
 GoTo G
 ForEachSheet
-	SetAxisTitle X, "log [Antibody] M"
+	SetAxisTitle Y, "Percent of c-Kit Ligand Response"
 Next
